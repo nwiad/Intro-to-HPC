@@ -1,0 +1,21 @@
+Number of elements: 100
+Execution time of function sort is 0.018000 ms.
+
+Number of elements: 1000
+Execution time of function sort is 0.057000 ms.
+
+Number of elements: 10000
+Execution time of function sort is 0.219000 ms.
+
+Number of elements: 100000
+Execution time of function sort is 0.988000 ms.
+
+Number of elements: 1000000
+Execution time of function sort is 5.078000 ms.
+
+Number of elements: 10000000
+Execution time of function sort is 48.569000 ms.
+
+Number of elements: 100000000
+Execution time of function sort is 635.255000 ms.
+

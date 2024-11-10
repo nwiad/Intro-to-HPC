@@ -1,0 +1,1222 @@
+Node: 1  Processers: 1  Elements: 100
+Execution time of function sort is 0.013000 ms.
+
+Node: 1  Processers: 2  Elements: 100
+Execution time of function sort is 0.034000 ms.
+
+Node: 1  Processers: 3  Elements: 100
+Execution time of function sort is 0.041000 ms.
+
+Node: 1  Processers: 4  Elements: 100
+Execution time of function sort is 0.065000 ms.
+
+Node: 1  Processers: 5  Elements: 100
+Execution time of function sort is 0.032000 ms.
+
+Node: 1  Processers: 6  Elements: 100
+Execution time of function sort is 0.026000 ms.
+
+Node: 1  Processers: 7  Elements: 100
+Execution time of function sort is 0.061000 ms.
+
+Node: 1  Processers: 8  Elements: 100
+Execution time of function sort is 0.079000 ms.
+
+Node: 1  Processers: 9  Elements: 100
+Execution time of function sort is 0.036000 ms.
+
+Node: 1  Processers: 10  Elements: 100
+Execution time of function sort is 0.072000 ms.
+
+Node: 1  Processers: 11  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.071000 ms.
+
+Node: 1  Processers: 12  Elements: 100
+Execution time of function sort is 0.067000 ms.
+
+Node: 1  Processers: 13  Elements: 100
+Execution time of function sort is 0.074000 ms.
+
+Node: 1  Processers: 14  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.069000 ms.
+
+Node: 1  Processers: 15  Elements: 100
+Execution time of function sort is 0.082000 ms.
+
+Node: 1  Processers: 16  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.074000 ms.
+
+Node: 1  Processers: 17  Elements: 100
+Execution time of function sort is 0.048000 ms.
+
+Node: 1  Processers: 18  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.070000 ms.
+
+Node: 1  Processers: 19  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.071000 ms.
+
+Node: 1  Processers: 20  Elements: 100
+Execution time of function sort is 0.103000 ms.
+
+Node: 1  Processers: 21  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.082000 ms.
+
+Node: 1  Processers: 22  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.112000 ms.
+
+Node: 1  Processers: 23  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.108000 ms.
+
+Node: 1  Processers: 24  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.103000 ms.
+
+Node: 1  Processers: 25  Elements: 100
+Execution time of function sort is 0.107000 ms.
+
+Node: 1  Processers: 26  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.106000 ms.
+
+Node: 1  Processers: 27  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.108000 ms.
+
+Node: 1  Processers: 28  Elements: 100
+<OUT OF RANGE>
+Execution time of function sort is 0.089000 ms.
+
+Node: 2  Processers: 29  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.092000 ms.
+
+Node: 2  Processers: 30  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.111000 ms.
+
+Node: 2  Processers: 31  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.111000 ms.
+
+Node: 2  Processers: 32  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.122000 ms.
+
+Node: 2  Processers: 33  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.109000 ms.
+
+Node: 2  Processers: 34  Elements: 100
+Execution time of function sort is 0.153000 ms.
+
+Node: 2  Processers: 35  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.113000 ms.
+
+Node: 2  Processers: 36  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.142000 ms.
+
+Node: 2  Processers: 37  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.126000 ms.
+
+Node: 2  Processers: 38  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.227000 ms.
+
+Node: 2  Processers: 39  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.104000 ms.
+
+Node: 2  Processers: 40  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.232000 ms.
+
+Node: 2  Processers: 41  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.123000 ms.
+
+Node: 2  Processers: 42  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.227000 ms.
+
+Node: 2  Processers: 43  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.156000 ms.
+
+Node: 2  Processers: 44  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.155000 ms.
+
+Node: 2  Processers: 45  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.143000 ms.
+
+Node: 2  Processers: 46  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.157000 ms.
+
+Node: 2  Processers: 47  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.233000 ms.
+
+Node: 2  Processers: 48  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.168000 ms.
+
+Node: 2  Processers: 49  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.226000 ms.
+
+Node: 2  Processers: 50  Elements: 100
+Execution time of function sort is 0.146000 ms.
+
+Node: 2  Processers: 51  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.152000 ms.
+
+Node: 2  Processers: 52  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.150000 ms.
+
+Node: 2  Processers: 53  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.147000 ms.
+
+Node: 2  Processers: 54  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.189000 ms.
+
+Node: 2  Processers: 55  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.152000 ms.
+
+Node: 2  Processers: 56  Elements: 100
+OUT OF RANGE
+Execution time of function sort is 0.209000 ms.
+
+Node: 1  Processers: 1  Elements: 1000
+Execution time of function sort is 0.065000 ms.
+
+Node: 1  Processers: 2  Elements: 1000
+Execution time of function sort is 0.073000 ms.
+
+Node: 1  Processers: 3  Elements: 1000
+Execution time of function sort is 0.063000 ms.
+
+Node: 1  Processers: 4  Elements: 1000
+Execution time of function sort is 0.116000 ms.
+
+Node: 1  Processers: 5  Elements: 1000
+Execution time of function sort is 0.073000 ms.
+
+Node: 1  Processers: 6  Elements: 1000
+Execution time of function sort is 0.111000 ms.
+
+Node: 1  Processers: 7  Elements: 1000
+Execution time of function sort is 0.119000 ms.
+
+Node: 1  Processers: 8  Elements: 1000
+Execution time of function sort is 0.100000 ms.
+
+Node: 1  Processers: 9  Elements: 1000
+Execution time of function sort is 0.067000 ms.
+
+Node: 1  Processers: 10  Elements: 1000
+Execution time of function sort is 0.102000 ms.
+
+Node: 1  Processers: 11  Elements: 1000
+Execution time of function sort is 0.109000 ms.
+
+Node: 1  Processers: 12  Elements: 1000
+Execution time of function sort is 0.130000 ms.
+
+Node: 1  Processers: 13  Elements: 1000
+Execution time of function sort is 0.132000 ms.
+
+Node: 1  Processers: 14  Elements: 1000
+Execution time of function sort is 0.119000 ms.
+
+Node: 1  Processers: 15  Elements: 1000
+Execution time of function sort is 0.123000 ms.
+
+Node: 1  Processers: 16  Elements: 1000
+Execution time of function sort is 0.145000 ms.
+
+Node: 1  Processers: 17  Elements: 1000
+Execution time of function sort is 0.113000 ms.
+
+Node: 1  Processers: 18  Elements: 1000
+Execution time of function sort is 0.154000 ms.
+
+Node: 1  Processers: 19  Elements: 1000
+Execution time of function sort is 0.140000 ms.
+
+Node: 1  Processers: 20  Elements: 1000
+Execution time of function sort is 0.148000 ms.
+
+Node: 1  Processers: 21  Elements: 1000
+Execution time of function sort is 0.155000 ms.
+
+Node: 1  Processers: 22  Elements: 1000
+Execution time of function sort is 0.147000 ms.
+
+Node: 1  Processers: 23  Elements: 1000
+Execution time of function sort is 0.162000 ms.
+
+Node: 1  Processers: 24  Elements: 1000
+Execution time of function sort is 0.159000 ms.
+
+Node: 1  Processers: 25  Elements: 1000
+Execution time of function sort is 0.159000 ms.
+
+Node: 1  Processers: 26  Elements: 1000
+Execution time of function sort is 0.190000 ms.
+
+Node: 1  Processers: 27  Elements: 1000
+Execution time of function sort is 0.175000 ms.
+
+Node: 1  Processers: 28  Elements: 1000
+Execution time of function sort is 0.185000 ms.
+
+Node: 2  Processers: 29  Elements: 1000
+Execution time of function sort is 0.246000 ms.
+
+Node: 2  Processers: 30  Elements: 1000
+Execution time of function sort is 12.207000 ms.
+
+Node: 2  Processers: 31  Elements: 1000
+Execution time of function sort is 0.340000 ms.
+
+Node: 2  Processers: 32  Elements: 1000
+Execution time of function sort is 3.434000 ms.
+
+Node: 2  Processers: 33  Elements: 1000
+Execution time of function sort is 0.268000 ms.
+
+Node: 2  Processers: 34  Elements: 1000
+Execution time of function sort is 0.388000 ms.
+
+Node: 2  Processers: 35  Elements: 1000
+Execution time of function sort is 0.291000 ms.
+
+Node: 2  Processers: 36  Elements: 1000
+Execution time of function sort is 1.986000 ms.
+
+Node: 2  Processers: 37  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 0.238000 ms.
+
+Node: 2  Processers: 38  Elements: 1000
+Execution time of function sort is 0.341000 ms.
+
+Node: 2  Processers: 39  Elements: 1000
+Execution time of function sort is 0.227000 ms.
+
+Node: 2  Processers: 40  Elements: 1000
+Execution time of function sort is 0.331000 ms.
+
+Node: 2  Processers: 41  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 0.283000 ms.
+
+Node: 2  Processers: 42  Elements: 1000
+Execution time of function sort is 0.297000 ms.
+
+Node: 2  Processers: 43  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 2.001000 ms.
+
+Node: 2  Processers: 44  Elements: 1000
+Execution time of function sort is 0.205000 ms.
+
+Node: 2  Processers: 45  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 0.163000 ms.
+
+Node: 2  Processers: 46  Elements: 1000
+Execution time of function sort is 0.188000 ms.
+
+Node: 2  Processers: 47  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 0.176000 ms.
+
+Node: 2  Processers: 48  Elements: 1000
+Execution time of function sort is 52.162000 ms.
+
+Node: 2  Processers: 49  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 36.070000 ms.
+
+Node: 2  Processers: 50  Elements: 1000
+Execution time of function sort is 0.176000 ms.
+
+Node: 2  Processers: 51  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 1.883000 ms.
+
+Node: 2  Processers: 52  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 0.180000 ms.
+
+Node: 2  Processers: 53  Elements: 1000
+Execution time of function sort is 0.154000 ms.
+
+Node: 2  Processers: 54  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 0.147000 ms.
+
+Node: 2  Processers: 55  Elements: 1000
+OUT OF RANGE
+Execution time of function sort is 0.173000 ms.
+
+Node: 2  Processers: 56  Elements: 1000
+Execution time of function sort is 0.226000 ms.
+
+Node: 1  Processers: 1  Elements: 10000
+Execution time of function sort is 0.796000 ms.
+
+Node: 1  Processers: 2  Elements: 10000
+Execution time of function sort is 0.623000 ms.
+
+Node: 1  Processers: 3  Elements: 10000
+Execution time of function sort is 0.710000 ms.
+
+Node: 1  Processers: 4  Elements: 10000
+Execution time of function sort is 0.524000 ms.
+
+Node: 1  Processers: 5  Elements: 10000
+Execution time of function sort is 0.312000 ms.
+
+Node: 1  Processers: 6  Elements: 10000
+Execution time of function sort is 0.263000 ms.
+
+Node: 1  Processers: 7  Elements: 10000
+Execution time of function sort is 0.298000 ms.
+
+Node: 1  Processers: 8  Elements: 10000
+Execution time of function sort is 0.269000 ms.
+
+Node: 1  Processers: 9  Elements: 10000
+Execution time of function sort is 0.295000 ms.
+
+Node: 1  Processers: 10  Elements: 10000
+Execution time of function sort is 0.319000 ms.
+
+Node: 1  Processers: 11  Elements: 10000
+Execution time of function sort is 0.277000 ms.
+
+Node: 1  Processers: 12  Elements: 10000
+Execution time of function sort is 0.255000 ms.
+
+Node: 1  Processers: 13  Elements: 10000
+Execution time of function sort is 0.210000 ms.
+
+Node: 1  Processers: 14  Elements: 10000
+Execution time of function sort is 0.293000 ms.
+
+Node: 1  Processers: 15  Elements: 10000
+Execution time of function sort is 0.244000 ms.
+
+Node: 1  Processers: 16  Elements: 10000
+Execution time of function sort is 0.251000 ms.
+
+Node: 1  Processers: 17  Elements: 10000
+Execution time of function sort is 0.237000 ms.
+
+Node: 1  Processers: 18  Elements: 10000
+Execution time of function sort is 0.223000 ms.
+
+Node: 1  Processers: 19  Elements: 10000
+Execution time of function sort is 0.233000 ms.
+
+Node: 1  Processers: 20  Elements: 10000
+Execution time of function sort is 0.256000 ms.
+
+Node: 1  Processers: 21  Elements: 10000
+Execution time of function sort is 0.258000 ms.
+
+Node: 1  Processers: 22  Elements: 10000
+Execution time of function sort is 0.312000 ms.
+
+Node: 1  Processers: 23  Elements: 10000
+Execution time of function sort is 0.250000 ms.
+
+Node: 1  Processers: 24  Elements: 10000
+Execution time of function sort is 0.249000 ms.
+
+Node: 1  Processers: 25  Elements: 10000
+Execution time of function sort is 0.276000 ms.
+
+Node: 1  Processers: 26  Elements: 10000
+Execution time of function sort is 0.250000 ms.
+
+Node: 1  Processers: 27  Elements: 10000
+Execution time of function sort is 0.291000 ms.
+
+Node: 1  Processers: 28  Elements: 10000
+Execution time of function sort is 0.259000 ms.
+
+Node: 2  Processers: 29  Elements: 10000
+Execution time of function sort is 3.467000 ms.
+
+Node: 2  Processers: 30  Elements: 10000
+Execution time of function sort is 0.430000 ms.
+
+Node: 2  Processers: 31  Elements: 10000
+Execution time of function sort is 0.471000 ms.
+
+Node: 2  Processers: 32  Elements: 10000
+Execution time of function sort is 7.679000 ms.
+
+Node: 2  Processers: 33  Elements: 10000
+Execution time of function sort is 0.301000 ms.
+
+Node: 2  Processers: 34  Elements: 10000
+Execution time of function sort is 0.390000 ms.
+
+Node: 2  Processers: 35  Elements: 10000
+Execution time of function sort is 0.449000 ms.
+
+Node: 2  Processers: 36  Elements: 10000
+Execution time of function sort is 0.346000 ms.
+
+Node: 2  Processers: 37  Elements: 10000
+Execution time of function sort is 0.398000 ms.
+
+Node: 2  Processers: 38  Elements: 10000
+Execution time of function sort is 0.451000 ms.
+
+Node: 2  Processers: 39  Elements: 10000
+
+Node: 2  Processers: 40  Elements: 10000
+Execution time of function sort is 2.045000 ms.
+
+Node: 2  Processers: 41  Elements: 10000
+Execution time of function sort is 0.363000 ms.
+
+Node: 2  Processers: 42  Elements: 10000
+Execution time of function sort is 0.499000 ms.
+
+Node: 2  Processers: 43  Elements: 10000
+Execution time of function sort is 0.347000 ms.
+
+Node: 2  Processers: 44  Elements: 10000
+Execution time of function sort is 0.408000 ms.
+
+Node: 2  Processers: 45  Elements: 10000
+Execution time of function sort is 0.369000 ms.
+
+Node: 2  Processers: 46  Elements: 10000
+Execution time of function sort is 0.382000 ms.
+
+Node: 2  Processers: 47  Elements: 10000
+Execution time of function sort is 0.367000 ms.
+
+Node: 2  Processers: 48  Elements: 10000
+Execution time of function sort is 0.391000 ms.
+
+Node: 2  Processers: 49  Elements: 10000
+Execution time of function sort is 0.380000 ms.
+
+Node: 2  Processers: 50  Elements: 10000
+Execution time of function sort is 0.413000 ms.
+
+Node: 2  Processers: 51  Elements: 10000
+Execution time of function sort is 0.360000 ms.
+
+Node: 2  Processers: 52  Elements: 10000
+Execution time of function sort is 0.335000 ms.
+
+Node: 2  Processers: 53  Elements: 10000
+Execution time of function sort is 0.361000 ms.
+
+Node: 2  Processers: 54  Elements: 10000
+Execution time of function sort is 0.377000 ms.
+
+Node: 2  Processers: 55  Elements: 10000
+Execution time of function sort is 0.413000 ms.
+
+Node: 2  Processers: 56  Elements: 10000
+Execution time of function sort is 0.410000 ms.
+
+Node: 1  Processers: 1  Elements: 100000
+Execution time of function sort is 8.143000 ms.
+
+Node: 1  Processers: 2  Elements: 100000
+Execution time of function sort is 6.258000 ms.
+
+Node: 1  Processers: 3  Elements: 100000
+Execution time of function sort is 4.669000 ms.
+
+Node: 1  Processers: 4  Elements: 100000
+Execution time of function sort is 3.270000 ms.
+
+Node: 1  Processers: 5  Elements: 100000
+Execution time of function sort is 2.701000 ms.
+
+Node: 1  Processers: 6  Elements: 100000
+Execution time of function sort is 2.685000 ms.
+
+Node: 1  Processers: 7  Elements: 100000
+Execution time of function sort is 2.243000 ms.
+
+Node: 1  Processers: 8  Elements: 100000
+Execution time of function sort is 2.189000 ms.
+
+Node: 1  Processers: 9  Elements: 100000
+Execution time of function sort is 2.367000 ms.
+
+Node: 1  Processers: 10  Elements: 100000
+Execution time of function sort is 2.218000 ms.
+
+Node: 1  Processers: 11  Elements: 100000
+Execution time of function sort is 1.727000 ms.
+
+Node: 1  Processers: 12  Elements: 100000
+Execution time of function sort is 1.859000 ms.
+
+Node: 1  Processers: 13  Elements: 100000
+Execution time of function sort is 1.701000 ms.
+
+Node: 1  Processers: 14  Elements: 100000
+Execution time of function sort is 1.678000 ms.
+
+Node: 1  Processers: 15  Elements: 100000
+Execution time of function sort is 1.237000 ms.
+
+Node: 1  Processers: 16  Elements: 100000
+Execution time of function sort is 1.230000 ms.
+
+Node: 1  Processers: 17  Elements: 100000
+Execution time of function sort is 1.142000 ms.
+
+Node: 1  Processers: 18  Elements: 100000
+Execution time of function sort is 1.135000 ms.
+
+Node: 1  Processers: 19  Elements: 100000
+Execution time of function sort is 1.169000 ms.
+
+Node: 1  Processers: 20  Elements: 100000
+Execution time of function sort is 1.120000 ms.
+
+Node: 1  Processers: 21  Elements: 100000
+Execution time of function sort is 1.108000 ms.
+
+Node: 1  Processers: 22  Elements: 100000
+Execution time of function sort is 1.060000 ms.
+
+Node: 1  Processers: 23  Elements: 100000
+Execution time of function sort is 1.150000 ms.
+
+Node: 1  Processers: 24  Elements: 100000
+Execution time of function sort is 1.035000 ms.
+
+Node: 1  Processers: 25  Elements: 100000
+Execution time of function sort is 1.059000 ms.
+
+Node: 1  Processers: 26  Elements: 100000
+Execution time of function sort is 8.026000 ms.
+
+Node: 1  Processers: 27  Elements: 100000
+Execution time of function sort is 1.068000 ms.
+
+Node: 1  Processers: 28  Elements: 100000
+Execution time of function sort is 1.057000 ms.
+
+Node: 2  Processers: 29  Elements: 100000
+Execution time of function sort is 4.222000 ms.
+
+Node: 2  Processers: 30  Elements: 100000
+Execution time of function sort is 1.363000 ms.
+
+Node: 2  Processers: 31  Elements: 100000
+Execution time of function sort is 1.111000 ms.
+
+Node: 2  Processers: 32  Elements: 100000
+Execution time of function sort is 5.155000 ms.
+
+Node: 2  Processers: 33  Elements: 100000
+Execution time of function sort is 1.745000 ms.
+
+Node: 2  Processers: 34  Elements: 100000
+Execution time of function sort is 1.844000 ms.
+
+Node: 2  Processers: 35  Elements: 100000
+Execution time of function sort is 1.387000 ms.
+
+Node: 2  Processers: 36  Elements: 100000
+Execution time of function sort is 1.749000 ms.
+
+Node: 2  Processers: 37  Elements: 100000
+Execution time of function sort is 1.790000 ms.
+
+Node: 2  Processers: 38  Elements: 100000
+Execution time of function sort is 1.679000 ms.
+
+Node: 2  Processers: 39  Elements: 100000
+Execution time of function sort is 1.579000 ms.
+
+Node: 2  Processers: 40  Elements: 100000
+Execution time of function sort is 1.632000 ms.
+
+Node: 2  Processers: 41  Elements: 100000
+Execution time of function sort is 1.346000 ms.
+
+Node: 2  Processers: 42  Elements: 100000
+Execution time of function sort is 1.496000 ms.
+
+Node: 2  Processers: 43  Elements: 100000
+Execution time of function sort is 1.217000 ms.
+
+Node: 2  Processers: 44  Elements: 100000
+Execution time of function sort is 1.538000 ms.
+
+Node: 2  Processers: 45  Elements: 100000
+Execution time of function sort is 2.456000 ms.
+
+Node: 2  Processers: 46  Elements: 100000
+Execution time of function sort is 1.447000 ms.
+
+Node: 2  Processers: 47  Elements: 100000
+Execution time of function sort is 1.592000 ms.
+
+Node: 2  Processers: 48  Elements: 100000
+Execution time of function sort is 9.212000 ms.
+
+Node: 2  Processers: 49  Elements: 100000
+Execution time of function sort is 1.298000 ms.
+
+Node: 2  Processers: 50  Elements: 100000
+Execution time of function sort is 1.382000 ms.
+
+Node: 2  Processers: 51  Elements: 100000
+Execution time of function sort is 0.936000 ms.
+
+Node: 2  Processers: 52  Elements: 100000
+Execution time of function sort is 0.922000 ms.
+
+Node: 2  Processers: 53  Elements: 100000
+Execution time of function sort is 0.946000 ms.
+
+Node: 2  Processers: 54  Elements: 100000
+Execution time of function sort is 0.895000 ms.
+
+Node: 2  Processers: 55  Elements: 100000
+Execution time of function sort is 0.953000 ms.
+
+Node: 2  Processers: 56  Elements: 100000
+Execution time of function sort is 0.934000 ms.
+
+Node: 1  Processers: 1  Elements: 1000000
+Execution time of function sort is 98.040000 ms.
+
+Node: 1  Processers: 2  Elements: 1000000
+Execution time of function sort is 67.807000 ms.
+
+Node: 1  Processers: 3  Elements: 1000000
+Execution time of function sort is 44.183000 ms.
+
+Node: 1  Processers: 4  Elements: 1000000
+Execution time of function sort is 34.666000 ms.
+
+Node: 1  Processers: 5  Elements: 1000000
+Execution time of function sort is 42.077000 ms.
+
+Node: 1  Processers: 6  Elements: 1000000
+Execution time of function sort is 38.150000 ms.
+
+Node: 1  Processers: 7  Elements: 1000000
+Execution time of function sort is 26.503000 ms.
+
+Node: 1  Processers: 8  Elements: 1000000
+Execution time of function sort is 21.329000 ms.
+
+Node: 1  Processers: 9  Elements: 1000000
+Execution time of function sort is 25.613000 ms.
+
+Node: 1  Processers: 10  Elements: 1000000
+Execution time of function sort is 16.283000 ms.
+
+Node: 1  Processers: 11  Elements: 1000000
+Execution time of function sort is 15.339000 ms.
+
+Node: 1  Processers: 12  Elements: 1000000
+Execution time of function sort is 15.733000 ms.
+
+Node: 1  Processers: 13  Elements: 1000000
+Execution time of function sort is 14.043000 ms.
+
+Node: 1  Processers: 14  Elements: 1000000
+Execution time of function sort is 11.412000 ms.
+
+Node: 1  Processers: 15  Elements: 1000000
+Execution time of function sort is 10.327000 ms.
+
+Node: 1  Processers: 16  Elements: 1000000
+Execution time of function sort is 10.135000 ms.
+
+Node: 1  Processers: 17  Elements: 1000000
+Execution time of function sort is 9.632000 ms.
+
+Node: 1  Processers: 18  Elements: 1000000
+Execution time of function sort is 9.129000 ms.
+
+Node: 1  Processers: 19  Elements: 1000000
+Execution time of function sort is 9.459000 ms.
+
+Node: 1  Processers: 20  Elements: 1000000
+Execution time of function sort is 10.073000 ms.
+
+Node: 1  Processers: 21  Elements: 1000000
+Execution time of function sort is 8.408000 ms.
+
+Node: 1  Processers: 22  Elements: 1000000
+Execution time of function sort is 8.348000 ms.
+
+Node: 1  Processers: 23  Elements: 1000000
+Execution time of function sort is 7.876000 ms.
+
+Node: 1  Processers: 24  Elements: 1000000
+Execution time of function sort is 8.945000 ms.
+
+Node: 1  Processers: 25  Elements: 1000000
+Execution time of function sort is 7.739000 ms.
+
+Node: 1  Processers: 26  Elements: 1000000
+Execution time of function sort is 8.756000 ms.
+
+Node: 1  Processers: 27  Elements: 1000000
+Execution time of function sort is 7.307000 ms.
+
+Node: 1  Processers: 28  Elements: 1000000
+Execution time of function sort is 8.535000 ms.
+
+Node: 2  Processers: 29  Elements: 1000000
+Execution time of function sort is 10.079000 ms.
+
+Node: 2  Processers: 30  Elements: 1000000
+Execution time of function sort is 10.948000 ms.
+
+Node: 2  Processers: 31  Elements: 1000000
+Execution time of function sort is 11.361000 ms.
+
+Node: 2  Processers: 32  Elements: 1000000
+Execution time of function sort is 15.661000 ms.
+
+Node: 2  Processers: 33  Elements: 1000000
+Execution time of function sort is 11.733000 ms.
+
+Node: 2  Processers: 34  Elements: 1000000
+Execution time of function sort is 6.983000 ms.
+
+Node: 2  Processers: 35  Elements: 1000000
+Execution time of function sort is 10.240000 ms.
+
+Node: 2  Processers: 36  Elements: 1000000
+Execution time of function sort is 8.984000 ms.
+
+Node: 2  Processers: 37  Elements: 1000000
+Execution time of function sort is 11.486000 ms.
+
+Node: 2  Processers: 38  Elements: 1000000
+
+Node: 2  Processers: 39  Elements: 1000000
+Execution time of function sort is 10.653000 ms.
+
+Node: 2  Processers: 40  Elements: 1000000
+Execution time of function sort is 11.181000 ms.
+
+Node: 2  Processers: 41  Elements: 1000000
+Execution time of function sort is 7.764000 ms.
+
+Node: 2  Processers: 42  Elements: 1000000
+Execution time of function sort is 9.051000 ms.
+
+Node: 2  Processers: 43  Elements: 1000000
+Execution time of function sort is 8.483000 ms.
+
+Node: 2  Processers: 44  Elements: 1000000
+Execution time of function sort is 9.323000 ms.
+
+Node: 2  Processers: 45  Elements: 1000000
+Execution time of function sort is 7.046000 ms.
+
+Node: 2  Processers: 46  Elements: 1000000
+Execution time of function sort is 9.959000 ms.
+
+Node: 2  Processers: 47  Elements: 1000000
+Execution time of function sort is 6.757000 ms.
+
+Node: 2  Processers: 48  Elements: 1000000
+Execution time of function sort is 9.216000 ms.
+
+Node: 2  Processers: 49  Elements: 1000000
+Execution time of function sort is 6.263000 ms.
+
+Node: 2  Processers: 50  Elements: 1000000
+Execution time of function sort is 6.719000 ms.
+
+Node: 2  Processers: 51  Elements: 1000000
+Execution time of function sort is 6.080000 ms.
+
+Node: 2  Processers: 52  Elements: 1000000
+Execution time of function sort is 7.771000 ms.
+
+Node: 2  Processers: 53  Elements: 1000000
+Execution time of function sort is 5.769000 ms.
+
+Node: 2  Processers: 54  Elements: 1000000
+Execution time of function sort is 5.539000 ms.
+
+Node: 2  Processers: 55  Elements: 1000000
+Execution time of function sort is 5.786000 ms.
+
+Node: 2  Processers: 56  Elements: 1000000
+Execution time of function sort is 5.724000 ms.
+
+Node: 1  Processers: 1  Elements: 10000000
+Execution time of function sort is 1131.241000 ms.
+
+Node: 1  Processers: 2  Elements: 10000000
+Execution time of function sort is 593.463000 ms.
+
+Node: 1  Processers: 3  Elements: 10000000
+Execution time of function sort is 429.374000 ms.
+
+Node: 1  Processers: 4  Elements: 10000000
+Execution time of function sort is 317.064000 ms.
+
+Node: 1  Processers: 5  Elements: 10000000
+Execution time of function sort is 269.994000 ms.
+
+Node: 1  Processers: 6  Elements: 10000000
+Execution time of function sort is 235.602000 ms.
+
+Node: 1  Processers: 7  Elements: 10000000
+Execution time of function sort is 210.927000 ms.
+
+Node: 1  Processers: 8  Elements: 10000000
+Execution time of function sort is 183.737000 ms.
+
+Node: 1  Processers: 9  Elements: 10000000
+Execution time of function sort is 171.923000 ms.
+
+Node: 1  Processers: 10  Elements: 10000000
+Execution time of function sort is 160.548000 ms.
+
+Node: 1  Processers: 11  Elements: 10000000
+Execution time of function sort is 143.910000 ms.
+
+Node: 1  Processers: 12  Elements: 10000000
+Execution time of function sort is 141.002000 ms.
+
+Node: 1  Processers: 13  Elements: 10000000
+Execution time of function sort is 125.638000 ms.
+
+Node: 1  Processers: 14  Elements: 10000000
+Execution time of function sort is 130.561000 ms.
+
+Node: 1  Processers: 15  Elements: 10000000
+Execution time of function sort is 121.144000 ms.
+
+Node: 1  Processers: 16  Elements: 10000000
+Execution time of function sort is 108.355000 ms.
+
+Node: 1  Processers: 17  Elements: 10000000
+Execution time of function sort is 105.147000 ms.
+
+Node: 1  Processers: 18  Elements: 10000000
+Execution time of function sort is 100.682000 ms.
+
+Node: 1  Processers: 19  Elements: 10000000
+Execution time of function sort is 97.707000 ms.
+
+Node: 1  Processers: 20  Elements: 10000000
+Execution time of function sort is 94.606000 ms.
+
+Node: 1  Processers: 21  Elements: 10000000
+Execution time of function sort is 93.060000 ms.
+
+Node: 1  Processers: 22  Elements: 10000000
+Execution time of function sort is 89.202000 ms.
+
+Node: 1  Processers: 23  Elements: 10000000
+Execution time of function sort is 85.897000 ms.
+
+Node: 1  Processers: 24  Elements: 10000000
+Execution time of function sort is 84.974000 ms.
+
+Node: 1  Processers: 25  Elements: 10000000
+Execution time of function sort is 82.993000 ms.
+
+Node: 1  Processers: 26  Elements: 10000000
+Execution time of function sort is 80.386000 ms.
+
+Node: 1  Processers: 27  Elements: 10000000
+Execution time of function sort is 79.106000 ms.
+
+Node: 1  Processers: 28  Elements: 10000000
+Execution time of function sort is 85.338000 ms.
+
+Node: 2  Processers: 29  Elements: 10000000
+Execution time of function sort is 97.521000 ms.
+
+Node: 2  Processers: 30  Elements: 10000000
+Execution time of function sort is 95.623000 ms.
+
+Node: 2  Processers: 31  Elements: 10000000
+Execution time of function sort is 74.470000 ms.
+
+Node: 2  Processers: 32  Elements: 10000000
+Execution time of function sort is 88.440000 ms.
+
+Node: 2  Processers: 33  Elements: 10000000
+Execution time of function sort is 90.585000 ms.
+
+Node: 2  Processers: 34  Elements: 10000000
+Execution time of function sort is 76.194000 ms.
+
+Node: 2  Processers: 35  Elements: 10000000
+Execution time of function sort is 79.762000 ms.
+
+Node: 2  Processers: 36  Elements: 10000000
+Execution time of function sort is 83.579000 ms.
+
+Node: 2  Processers: 37  Elements: 10000000
+Execution time of function sort is 83.824000 ms.
+
+Node: 2  Processers: 38  Elements: 10000000
+Execution time of function sort is 82.651000 ms.
+
+Node: 2  Processers: 39  Elements: 10000000
+Execution time of function sort is 73.230000 ms.
+
+Node: 2  Processers: 40  Elements: 10000000
+Execution time of function sort is 80.961000 ms.
+
+Node: 2  Processers: 41  Elements: 10000000
+Execution time of function sort is 74.057000 ms.
+
+Node: 2  Processers: 42  Elements: 10000000
+Execution time of function sort is 71.727000 ms.
+
+Node: 2  Processers: 43  Elements: 10000000
+Execution time of function sort is 77.641000 ms.
+
+Node: 2  Processers: 44  Elements: 10000000
+Execution time of function sort is 74.144000 ms.
+
+Node: 2  Processers: 45  Elements: 10000000
+Execution time of function sort is 76.648000 ms.
+
+Node: 2  Processers: 46  Elements: 10000000
+Execution time of function sort is 66.058000 ms.
+
+Node: 2  Processers: 47  Elements: 10000000
+Execution time of function sort is 68.137000 ms.
+
+Node: 2  Processers: 48  Elements: 10000000
+Execution time of function sort is 76.847000 ms.
+
+Node: 2  Processers: 49  Elements: 10000000
+Execution time of function sort is 61.419000 ms.
+
+Node: 2  Processers: 50  Elements: 10000000
+Execution time of function sort is 57.436000 ms.
+
+Node: 2  Processers: 51  Elements: 10000000
+Execution time of function sort is 69.463000 ms.
+
+Node: 2  Processers: 52  Elements: 10000000
+Execution time of function sort is 62.313000 ms.
+
+Node: 2  Processers: 53  Elements: 10000000
+Execution time of function sort is 53.537000 ms.
+
+Node: 2  Processers: 54  Elements: 10000000
+Execution time of function sort is 52.340000 ms.
+
+Node: 2  Processers: 55  Elements: 10000000
+Execution time of function sort is 53.025000 ms.
+
+Node: 2  Processers: 56  Elements: 10000000
+Execution time of function sort is 51.835000 ms.
+
+Node: 1  Processers: 1  Elements: 100000000
+Execution time of function sort is 12242.577000 ms.
+
+Node: 1  Processers: 2  Elements: 100000000
+Execution time of function sort is 6498.780000 ms.
+
+Node: 1  Processers: 3  Elements: 100000000
+Execution time of function sort is 4780.663000 ms.
+
+Node: 1  Processers: 4  Elements: 100000000
+Execution time of function sort is 3486.843000 ms.
+
+Node: 1  Processers: 5  Elements: 100000000
+Execution time of function sort is 2936.327000 ms.
+
+Node: 1  Processers: 6  Elements: 100000000
+Execution time of function sort is 2434.487000 ms.
+
+Node: 1  Processers: 7  Elements: 100000000
+Execution time of function sort is 2227.312000 ms.
+
+Node: 1  Processers: 8  Elements: 100000000
+Execution time of function sort is 1941.546000 ms.
+
+Node: 1  Processers: 9  Elements: 100000000
+Execution time of function sort is 1807.309000 ms.
+
+Node: 1  Processers: 10  Elements: 100000000
+Execution time of function sort is 1632.488000 ms.
+
+Node: 1  Processers: 11  Elements: 100000000
+Execution time of function sort is 1559.545000 ms.
+
+Node: 1  Processers: 12  Elements: 100000000
+Execution time of function sort is 1429.646000 ms.
+
+Node: 1  Processers: 13  Elements: 100000000
+Execution time of function sort is 1367.408000 ms.
+
+Node: 1  Processers: 14  Elements: 100000000
+Execution time of function sort is 1291.443000 ms.
+
+Node: 1  Processers: 15  Elements: 100000000
+Execution time of function sort is 1238.340000 ms.
+
+Node: 1  Processers: 16  Elements: 100000000
+Execution time of function sort is 1176.907000 ms.
+
+Node: 1  Processers: 17  Elements: 100000000
+Execution time of function sort is 1134.096000 ms.
+
+Node: 1  Processers: 18  Elements: 100000000
+Execution time of function sort is 1105.021000 ms.
+
+Node: 1  Processers: 19  Elements: 100000000
+Execution time of function sort is 1081.439000 ms.
+
+Node: 1  Processers: 20  Elements: 100000000
+Execution time of function sort is 1036.959000 ms.
+
+Node: 1  Processers: 21  Elements: 100000000
+Execution time of function sort is 1013.479000 ms.
+
+Node: 1  Processers: 22  Elements: 100000000
+Execution time of function sort is 1004.243000 ms.
+
+Node: 1  Processers: 23  Elements: 100000000
+Execution time of function sort is 963.903000 ms.
+
+Node: 1  Processers: 24  Elements: 100000000
+Execution time of function sort is 956.771000 ms.
+
+Node: 1  Processers: 25  Elements: 100000000
+Execution time of function sort is 927.886000 ms.
+
+Node: 1  Processers: 26  Elements: 100000000
+Execution time of function sort is 924.592000 ms.
+
+Node: 1  Processers: 27  Elements: 100000000
+Execution time of function sort is 931.745000 ms.
+
+Node: 1  Processers: 28  Elements: 100000000
+Execution time of function sort is 929.381000 ms.
+
+Node: 2  Processers: 29  Elements: 100000000
+Execution time of function sort is 908.413000 ms.
+
+Node: 2  Processers: 30  Elements: 100000000
+Execution time of function sort is 903.100000 ms.
+
+Node: 2  Processers: 31  Elements: 100000000
+Execution time of function sort is 891.723000 ms.
+
+Node: 2  Processers: 32  Elements: 100000000
+Execution time of function sort is 896.674000 ms.
+
+Node: 2  Processers: 33  Elements: 100000000
+Execution time of function sort is 893.665000 ms.
+
+Node: 2  Processers: 34  Elements: 100000000
+Execution time of function sort is 923.329000 ms.
+
+Node: 2  Processers: 35  Elements: 100000000
+Execution time of function sort is 848.381000 ms.
+
+Node: 2  Processers: 36  Elements: 100000000
+Execution time of function sort is 824.352000 ms.
+
+Node: 2  Processers: 37  Elements: 100000000
+Execution time of function sort is 928.204000 ms.
+
+Node: 2  Processers: 38  Elements: 100000000
+Execution time of function sort is 943.405000 ms.
+
+Node: 2  Processers: 39  Elements: 100000000
+Execution time of function sort is 804.179000 ms.
+
+Node: 2  Processers: 40  Elements: 100000000
+Execution time of function sort is 785.960000 ms.
+
+Node: 2  Processers: 41  Elements: 100000000
+Execution time of function sort is 955.810000 ms.
+
+Node: 2  Processers: 42  Elements: 100000000
+Execution time of function sort is 771.126000 ms.
+
+Node: 2  Processers: 43  Elements: 100000000
+Execution time of function sort is 764.645000 ms.
+
+Node: 2  Processers: 44  Elements: 100000000
+Execution time of function sort is 772.403000 ms.
+
+Node: 2  Processers: 45  Elements: 100000000
+Execution time of function sort is 734.043000 ms.
+
+Node: 2  Processers: 46  Elements: 100000000
+Execution time of function sort is 753.396000 ms.
+
+Node: 2  Processers: 47  Elements: 100000000
+Execution time of function sort is 714.247000 ms.
+
+Node: 2  Processers: 48  Elements: 100000000
+Execution time of function sort is 729.404000 ms.
+
+Node: 2  Processers: 49  Elements: 100000000
+Execution time of function sort is 730.838000 ms.
+
+Node: 2  Processers: 50  Elements: 100000000
+Execution time of function sort is 711.161000 ms.
+
+Node: 2  Processers: 51  Elements: 100000000
+Execution time of function sort is 719.833000 ms.
+
+Node: 2  Processers: 52  Elements: 100000000
+Execution time of function sort is 697.858000 ms.
+
+Node: 2  Processers: 53  Elements: 100000000
+Execution time of function sort is 699.241000 ms.
+
+Node: 2  Processers: 54  Elements: 100000000
+Execution time of function sort is 745.878000 ms.
+
+Node: 2  Processers: 55  Elements: 100000000
+Execution time of function sort is 728.235000 ms.
+
+Node: 2  Processers: 56  Elements: 100000000
+Execution time of function sort is 818.065000 ms.
+

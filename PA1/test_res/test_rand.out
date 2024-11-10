@@ -1,0 +1,113 @@
+Range: 1 ~ 100
+Round 0
+Number of elements: 96
+Execution time of function sort is 0.012000 ms.
+
+Round 1
+Number of elements: 47
+Execution time of function sort is 0.009000 ms.
+
+Round 2
+Number of elements: 36
+Execution time of function sort is 0.009000 ms.
+
+Range: 101 ~ 1000
+Round 0
+Number of elements: 265
+Execution time of function sort is 0.032000 ms.
+
+Round 1
+Number of elements: 411
+Execution time of function sort is 0.034000 ms.
+
+Round 2
+Number of elements: 559
+Execution time of function sort is 0.041000 ms.
+
+Range: 1001 ~ 10000
+Round 0
+Number of elements: 1335
+Execution time of function sort is 0.072000 ms.
+
+Round 1
+Number of elements: 1996
+Execution time of function sort is 0.102000 ms.
+
+Round 2
+Number of elements: 9148
+Execution time of function sort is 0.198000 ms.
+
+Range: 10001 ~ 100000
+Round 0
+Number of elements: 23017
+Execution time of function sort is 0.331000 ms.
+
+Round 1
+Number of elements: 23649
+Execution time of function sort is 0.346000 ms.
+
+Round 2
+Number of elements: 37234
+Execution time of function sort is 0.450000 ms.
+
+Range: 100001 ~ 1000000
+Round 0
+Number of elements: 111675
+Execution time of function sort is 1.054000 ms.
+
+Round 1
+Number of elements: 128772
+Execution time of function sort is 1.237000 ms.
+
+Round 2
+Number of elements: 117199
+
+Range: 1000001 ~ 10000000
+Round 0
+Number of elements: 1028309
+Execution time of function sort is 12.968000 ms.
+
+Round 1
+Number of elements: 1004257
+Execution time of function sort is 12.901000 ms.
+
+Round 2
+Number of elements: 1028702
+
+Range: 10000001 ~ 100000000
+Round 0
+Number of elements: 10005358
+Execution time of function sort is 48.440000 ms.
+
+Round 1
+Number of elements: 10021478
+Execution time of function sort is 48.678000 ms.
+
+Round 2
+Number of elements: 10012131
+
+Range: 100000001 ~ 1000000000
+Round 0
+Number of elements: 100024076
+Execution time of function sort is 677.852000 ms.
+
+Round 1
+Number of elements: 100003756
+
+Round 2
+Number of elements: 100022463
+Execution time of function sort is 637.164000 ms.
+
+Range: 1000000001 ~ 2147483647
+Round 0
+Number of elements: 1000003542
+Execution time of function sort is 6626.500000 ms.
+
+Round 1
+Number of elements: 1000023129
+Execution time of function sort is 6622.894000 ms.
+
+Round 2
+Number of elements: 1000004786
+Execution time of function sort is 6640.023000 ms.
+

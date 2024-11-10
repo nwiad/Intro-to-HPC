@@ -1,0 +1,92 @@
+[..2958/PA3/src/util.cu:74 (argParse)] dset = "amazon_cogdl" (std::string)
+[..2958/PA3/src/data.cu:5 (load_graph)] loading
+[..58/PA3/test/main.cpp:17 (main)] kLen = 256 (int)
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from SpMMTest
+[ RUN      ] SpMMTest.validation
+[       OK ] SpMMTest.validation (22350 ms)
+[ RUN      ] SpMMTest.cusparse_performance
+[..A3/test/test_spmm.cu:62 (TestBody)] time = 0.516127 (double)
+[       OK ] SpMMTest.cusparse_performance (15835 ms)
+[ RUN      ] SpMMTest.opt_performance
+[..A3/test/test_spmm.cu:71 (TestBody)] time = 0.344292 (double)
+[       OK ] SpMMTest.opt_performance (10611 ms)
+[----------] 3 tests from SpMMTest (48797 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (48797 ms total)
+[  PASSED  ] 3 tests.
+[..2958/PA3/src/util.cu:74 (argParse)] dset = "yelp" (std::string)
+[..2958/PA3/src/data.cu:5 (load_graph)] loading
+[..58/PA3/test/main.cpp:17 (main)] kLen = 256 (int)
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from SpMMTest
+[ RUN      ] SpMMTest.validation
+[       OK ] SpMMTest.validation (1410 ms)
+[ RUN      ] SpMMTest.cusparse_performance
+[..A3/test/test_spmm.cu:62 (TestBody)] time = 0.0299914 (double)
+[       OK ] SpMMTest.cusparse_performance (1162 ms)
+[ RUN      ] SpMMTest.opt_performance
+[..A3/test/test_spmm.cu:71 (TestBody)] time = 0.0249781 (double)
+[       OK ] SpMMTest.opt_performance (894 ms)
+[----------] 3 tests from SpMMTest (3466 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (3466 ms total)
+[  PASSED  ] 3 tests.
+[..2958/PA3/src/util.cu:74 (argParse)] dset = "wikikg2" (std::string)
+[..2958/PA3/src/data.cu:5 (load_graph)] loading
+[..58/PA3/test/main.cpp:17 (main)] kLen = 256 (int)
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from SpMMTest
+[ RUN      ] SpMMTest.validation
+[       OK ] SpMMTest.validation (578 ms)
+[ RUN      ] SpMMTest.cusparse_performance
+[..A3/test/test_spmm.cu:62 (TestBody)] time = 0.0166368 (double)
+[       OK ] SpMMTest.cusparse_performance (852 ms)
+[ RUN      ] SpMMTest.opt_performance
+[..A3/test/test_spmm.cu:71 (TestBody)] time = 0.020446 (double)
+[       OK ] SpMMTest.opt_performance (818 ms)
+[----------] 3 tests from SpMMTest (2249 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (2249 ms total)
+[  PASSED  ] 3 tests.
+[..2958/PA3/src/util.cu:74 (argParse)] dset = "am" (std::string)
+[..2958/PA3/src/data.cu:5 (load_graph)] loading
+[..58/PA3/test/main.cpp:17 (main)] kLen = 256 (int)
+[==========] Running 3 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 3 tests from SpMMTest
+[ RUN      ] SpMMTest.validation
+[       OK ] SpMMTest.validation (4959 ms)
+[ RUN      ] SpMMTest.cusparse_performance
+[..A3/test/test_spmm.cu:62 (TestBody)] time = 0.0133743 (double)
+[       OK ] SpMMTest.cusparse_performance (660 ms)
+[ RUN      ] SpMMTest.opt_performance
+[..A3/test/test_spmm.cu:71 (TestBody)] time = 0.0162272 (double)
+[       OK ] SpMMTest.opt_performance (553 ms)
+[----------] 3 tests from SpMMTest (6173 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test suite ran. (6173 ms total)
+[  PASSED  ] 3 tests.
+
+======================
+k=256
+Processing file: /home/course/hpc/users/2021012958/PA3/log/output_05_23_36_06_10.log, k value: 256
+spmm_opt.cu: 
+Average Throughput (nnz/s): 615920103.62
+dataset: amazon_cogdl, cusparse_256: 400000, time: 344292
+dataset: yelp, cusparse_256: 27000, time: 24978
+dataset: wikikg2, cusparse_256: 25000, time: 20446
+dataset: am, cusparse_256: 13000, time: 16227
+spmm_cusparse.cu: 
+Average Throughput (nnz/s): 592397179.13
+dataset: amazon_cogdl, cusparse_256: 400000, time: 516127
+dataset: yelp, cusparse_256: 27000, time: 29991
+dataset: wikikg2, cusparse_256: 25000, time: 16636
+dataset: am, cusparse_256: 13000, time: 13374

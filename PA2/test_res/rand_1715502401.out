@@ -1,0 +1,549 @@
+Range: 1000 ~ 2000
+Round 1
+Testing with n=1796
+Validation Passed
+Time: 6.920107 ms
+PASS
+
+Round 2
+Testing with n=1221
+Validation Passed
+Time: 3.287699 ms
+PASS
+
+Round 3
+Testing with n=1365
+Validation Passed
+Time: 3.505687 ms
+PASS
+
+Round 4
+Testing with n=1872
+Validation Passed
+Time: 6.962423 ms
+PASS
+
+Round 5
+Testing with n=1739
+Validation Passed
+Time: 5.666087 ms
+PASS
+
+Round 6
+Testing with n=1414
+Validation Passed
+Time: 3.843039 ms
+PASS
+
+Round 7
+Testing with n=1752
+Validation Passed
+Time: 5.680356 ms
+PASS
+
+Round 8
+Testing with n=1697
+Validation Passed
+Time: 5.268313 ms
+PASS
+
+Round 9
+Testing with n=1872
+Validation Passed
+Time: 6.654779 ms
+PASS
+
+Round 10
+Testing with n=1230
+Validation Passed
+Time: 2.967941 ms
+PASS
+
+Range: 2000 ~ 3000
+Round 1
+Testing with n=2757
+Validation Passed
+Time: 16.133754 ms
+PASS
+
+Round 2
+Testing with n=2332
+Validation Passed
+Time: 10.618688 ms
+PASS
+
+Round 3
+Testing with n=2561
+Validation Passed
+Time: 13.575041 ms
+PASS
+
+Round 4
+Testing with n=2977
+Validation Passed
+Time: 19.040440 ms
+PASS
+
+Round 5
+Testing with n=2143
+Validation Passed
+Time: 8.790890 ms
+PASS
+
+Round 6
+Testing with n=2017
+Validation Passed
+Time: 7.625442 ms
+PASS
+
+Round 7
+Testing with n=2571
+Validation Passed
+Time: 13.572263 ms
+PASS
+
+Round 8
+Testing with n=2452
+Validation Passed
+Time: 11.981417 ms
+PASS
+
+Round 9
+Testing with n=2537
+Validation Passed
+Time: 12.778327 ms
+PASS
+
+Round 10
+Testing with n=2960
+Validation Passed
+Time: 18.975029 ms
+PASS
+
+Range: 3000 ~ 4000
+Round 1
+Testing with n=3735
+Validation Passed
+Time: 34.933309 ms
+PASS
+
+Round 2
+Testing with n=3789
+Validation Passed
+Time: 36.612665 ms
+PASS
+
+Round 3
+Testing with n=3022
+Validation Passed
+Time: 19.975079 ms
+PASS
+
+Round 4
+Testing with n=3903
+Validation Passed
+Time: 38.303579 ms
+PASS
+
+Round 5
+Testing with n=3840
+Validation Passed
+Time: 36.586630 ms
+PASS
+
+Round 6
+Testing with n=3708
+Validation Passed
+Time: 33.465753 ms
+PASS
+
+Round 7
+Testing with n=3436
+Validation Passed
+Time: 27.092538 ms
+PASS
+
+Round 8
+Testing with n=3603
+Validation Passed
+Time: 31.900661 ms
+PASS
+
+Round 9
+Testing with n=3919
+Validation Passed
+Time: 40.019016 ms
+PASS
+
+Round 10
+Testing with n=3842
+Validation Passed
+Time: 42.072581 ms
+PASS
+
+Range: 4000 ~ 5000
+Round 1
+Testing with n=4231
+Validation Passed
+Time: 54.128179 ms
+PASS
+
+Round 2
+Testing with n=4985
+Validation Passed
+Time: 74.167772 ms
+PASS
+
+Round 3
+Testing with n=4556
+Validation Passed
+Time: 59.596046 ms
+PASS
+
+Round 4
+Testing with n=4524
+Validation Passed
+Time: 57.486572 ms
+PASS
+
+Round 5
+Testing with n=4734
+Validation Passed
+Time: 64.240615 ms
+PASS
+
+Round 6
+Testing with n=4311
+Validation Passed
+Time: 51.124955 ms
+PASS
+
+Round 7
+Testing with n=4455
+Validation Passed
+Time: 55.282049 ms
+PASS
+
+Round 8
+Testing with n=4431
+Validation Passed
+Time: 55.274442 ms
+PASS
+
+Round 9
+Testing with n=4050
+Validation Passed
+Time: 43.385247 ms
+PASS
+
+Round 10
+Testing with n=4232
+Validation Passed
+Time: 49.262219 ms
+PASS
+
+Range: 5000 ~ 6000
+Round 1
+Testing with n=5514
+Validation Passed
+Time: 100.234613 ms
+PASS
+
+Round 2
+Testing with n=5467
+Validation Passed
+Time: 97.107180 ms
+PASS
+
+Round 3
+Testing with n=5652
+Validation Passed
+Time: 108.004736 ms
+PASS
+
+Round 4
+Testing with n=5451
+Validation Passed
+Time: 98.874122 ms
+PASS
+
+Round 5
+Testing with n=5792
+Validation Passed
+Time: 114.771374 ms
+PASS
+
+Round 6
+Testing with n=5713
+Validation Passed
+Time: 110.462175 ms
+PASS
+
+Round 7
+Testing with n=5722
+Validation Passed
+Time: 110.413652 ms
+PASS
+
+Round 8
+Testing with n=5545
+Validation Passed
+Time: 101.281980 ms
+PASS
+
+Round 9
+Testing with n=5098
+Validation Passed
+Time: 79.822335 ms
+PASS
+
+Round 10
+Testing with n=5203
+Validation Passed
+Time: 85.152586 ms
+PASS
+
+Range: 6000 ~ 7000
+Round 1
+Testing with n=6030
+Validation Passed
+Time: 128.837794 ms
+PASS
+
+Round 2
+Testing with n=6313
+Validation Passed
+Time: 146.727384 ms
+PASS
+
+Round 3
+Testing with n=6093
+Validation Passed
+Time: 132.427031 ms
+PASS
+
+Round 4
+Testing with n=6834
+Validation Passed
+Time: 181.151368 ms
+PASS
+
+Round 5
+Testing with n=6775
+Validation Passed
+Time: 177.206418 ms
+PASS
+
+Round 6
+Testing with n=6054
+Validation Passed
+Time: 130.469408 ms
+PASS
+
+Round 7
+Testing with n=6465
+Validation Passed
+Time: 157.634991 ms
+PASS
+
+Round 8
+Testing with n=6243
+Validation Passed
+Time: 142.907699 ms
+PASS
+
+Round 9
+Testing with n=6218
+Validation Passed
+Time: 140.562558 ms
+PASS
+
+Round 10
+Testing with n=6476
+Validation Passed
+Time: 160.446732 ms
+PASS
+
+Range: 7000 ~ 8000
+Round 1
+Testing with n=7477
+Validation Passed
+Time: 239.312261 ms
+PASS
+
+Round 2
+Testing with n=7809
+Validation Passed
+Time: 273.244627 ms
+PASS
+
+Round 3
+Testing with n=7252
+Validation Passed
+Time: 221.702942 ms
+PASS
+
+Round 4
+Testing with n=7790
+Validation Passed
+Time: 269.693872 ms
+PASS
+
+Round 5
+Testing with n=7584
+Validation Passed
+Time: 250.410220 ms
+PASS
+
+Round 6
+Testing with n=7525
+Validation Passed
+Time: 241.783253 ms
+PASS
+
+Round 7
+Testing with n=7690
+Validation Passed
+Time: 267.766397 ms
+PASS
+
+Round 8
+Testing with n=7704
+Validation Passed
+Time: 259.487115 ms
+PASS
+
+Round 9
+Testing with n=7572
+Validation Passed
+Time: 248.111935 ms
+PASS
+
+Round 10
+Testing with n=7270
+Validation Passed
+Time: 221.461500 ms
+PASS
+
+Range: 8000 ~ 9000
+Round 1
+Testing with n=8851
+Validation Passed
+Time: 391.625521 ms
+PASS
+
+Round 2
+Testing with n=8381
+Validation Passed
+Time: 334.637078 ms
+PASS
+
+Round 3
+Testing with n=8743
+Validation Passed
+Time: 371.423628 ms
+PASS
+
+Round 4
+Testing with n=8680
+Validation Passed
+Time: 367.356280 ms
+PASS
+
+Round 5
+Testing with n=8231
+Validation Passed
+Time: 314.856078 ms
+PASS
+
+Round 6
+Testing with n=8716
+Validation Passed
+Time: 371.688925 ms
+PASS
+
+Round 7
+Testing with n=8441
+Validation Passed
+Time: 337.010827 ms
+PASS
+
+Round 8
+Testing with n=8628
+Validation Passed
+Time: 365.389970 ms
+PASS
+
+Round 9
+Testing with n=8853
+Validation Passed
+Time: 391.663860 ms
+PASS
+
+Round 10
+Testing with n=8542
+Validation Passed
+Time: 350.136552 ms
+PASS
+
+Range: 9000 ~ 10000
+Round 1
+Testing with n=9185
+Validation Passed
+Time: 432.397557 ms
+PASS
+
+Round 2
+Testing with n=9081
+Validation Passed
+Time: 412.341146 ms
+PASS
+
+Round 3
+Testing with n=9204
+Validation Passed
+Time: 431.793514 ms
+PASS
+
+Round 4
+Testing with n=9753
+Validation Passed
+Time: 515.381778 ms
+PASS
+
+Round 5
+Testing with n=9866
+Validation Passed
+Time: 536.170829 ms
+PASS
+
+Round 6
+Testing with n=9105
+Validation Passed
+Time: 424.779748 ms
+PASS
+
+Round 7
+Testing with n=9792
+Validation Passed
+Time: 516.216371 ms
+PASS
+
+Round 8
+Testing with n=9231
+Validation Passed
+Time: 442.015650 ms
+PASS
+
+Round 9
+Testing with n=9473
+Validation Passed
+Time: 478.616576 ms
+PASS
+
+Round 10
+Testing with n=9503
+Validation Passed
+Time: 478.675699 ms
+PASS
+
